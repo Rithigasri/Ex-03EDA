@@ -91,11 +91,11 @@ sns.heatmap(df.corr(),annot=True)
 ### CORRELATION METHOD:
 ![output](./output15.png)
 ## INFERENCE:
-1.The count of passengers who survived is high for those who travelled in class 3.
-2.Female passengers had survived more than male passengers.
-3.Passengers with age in the range of 20-30 had survived compared to other age group people.
-4.Maximum number of passengers had travelled in class 3.
-5.There is high proportion of male with respect to female in the ship.
+* The count of passengers who survived is high for those who travelled in class 3.
+* Female passengers had survived more than male passengers.
+* Passengers with age in the range of 20-30 had survived compared to other age group people.
+* Maximum number of passengers had travelled in class 3.
+* There is high proportion of male with respect to female in the ship.
 
 ## RESULT:
 Hence the given data set has undergone data cleansing and outlier removal.Later Exploratory data analysis is done to get inference from the given data set.
