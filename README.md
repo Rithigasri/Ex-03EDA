@@ -1,7 +1,7 @@
 # Ex-03 EXPLORATORY DATA ANALYSIS
 
 ## AIM:
-To perform EDA on the given data set. 
+To perform Exploratory Data Analysis on the given data set. 
 
 ## EXPLANATION:
 The primary aim with exploratory analysis is to examine the data for distribution, outliers and 
